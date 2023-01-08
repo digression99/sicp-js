@@ -5,6 +5,7 @@
 - You can get the pdf version, ebook version, web version of the book in this repo - https://github.com/source-academy/sicp
   - web version - https://sourceacademy.org/sicpjs/foreword02
   - Korean textbook - https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307477122
+  This is really good.
 
 ## Introduction
 
